@@ -1,0 +1,1 @@
+export const API = "https://weather-app-olive-ten-32.vercel.app"
